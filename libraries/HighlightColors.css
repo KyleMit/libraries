@@ -83,6 +83,11 @@ pre .xmlDocTag {
   color: rgb(128, 128, 128) !important;
 }
 
+pre .number {
+	color: rgb(0, 0, 0) !important;
+	font-weight: bold;
+}
+
 pre .vhdl .typename { 
     font-weight: bold !important; 
 }
