@@ -8,3 +8,13 @@ pre.prettyprint > code {
 	overflow-wrap: normal;
 	white-space: pre;
 }
+
+body {
+    background: #073763;
+}
+.post-title {
+    font-size: 3rem;
+}
+.post-outer {
+    border-bottom: 1px solid black;
+}
