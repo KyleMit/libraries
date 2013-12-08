@@ -1,7 +1,6 @@
 pre.prettyprint {
 	width: 600px;
 	overflow: auto;
-	max-height: 600px;
 }
 pre.prettyprint > code {
 	width: initial;
