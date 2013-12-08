@@ -14,3 +14,6 @@ pre.prettyprint > code {
 .post-outer {
     border-bottom: 1px solid black;
 }
+.body-fauxcolumns {
+	background: #66bbdd none repeat scroll top left;
+}
