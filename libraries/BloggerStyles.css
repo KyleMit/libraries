@@ -13,7 +13,7 @@ body {
     background: #073763;
 }
 .post-title {
-    font-size: 3rem;
+    font-size: 3rem !important;
 }
 .post-outer {
     border-bottom: 1px solid black;
