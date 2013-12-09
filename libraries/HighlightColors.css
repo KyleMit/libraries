@@ -20,6 +20,7 @@ pre .apache .cbracket {
 }
 
 pre .keyword,
+pre .literal,
 pre .id,
 pre .built_in,
 pre .smalltalk .class,
