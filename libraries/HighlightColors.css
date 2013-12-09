@@ -11,7 +11,7 @@ pre code {
 }
 
 pre .number {
-  color: rgb(0, 0, 0); /*black */
+  color: rgb(0, 0, 0) !important; /*black */
 }
 
 pre .comment,
@@ -20,7 +20,7 @@ pre .template_comment,
 pre .diff .header,
 pre .chunk,
 pre .apache .cbracket {
-  color: rgb(0, 128, 0); /*green */
+  color: rgb(0, 128, 0) !important; /*green */
 }
 
 pre .keyword,
@@ -36,7 +36,7 @@ pre .status,
 pre .nginx .title,
 pre .xml .tag,
 pre .xml .tag .value {
-  color: rgb(0, 0, 255); /*blue*/
+  color: rgb(0, 0, 255) !important; /*blue*/
 }
 
 pre .string,
@@ -57,7 +57,7 @@ pre .apache .tag,
 pre .date,
 pre .tex .formula,
 pre .coffeescript .attribute {
-  color: rgb(163, 21, 21); /*darkred*/
+  color: rgb(163, 21, 21) !important; /*darkred*/
 }
 
 pre .ruby .string,
@@ -79,11 +79,11 @@ pre .apache .sqbracket,
 pre .nginx .built_in,
 pre .tex .special,
 pre .prompt {
-  color: rgb(43, 145, 175); /*cornflowerblue*/
+  color: rgb(43, 145, 175) !important; /*cornflowerblue*/
 }
 
 pre .phpdoc,
 pre .javadoc,
 pre .xmlDocTag {
-  color: rgb(128, 128, 128); /*gray*/
+  color: rgb(128, 128, 128) !important; /*gray*/
 }
