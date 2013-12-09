@@ -83,24 +83,3 @@ pre .javadoc,
 pre .xmlDocTag {
   color: rgb(128, 128, 128) !important;
 }
-
-pre .number {
-	color: rgb(0, 0, 0) !important;
-	font-weight: bold;
-}
-
-pre .vhdl .typename { 
-    font-weight: bold !important; 
-}
-pre .vhdl .string { 
-    color: #666666 !important; 
-}
-pre .vhdl .literal {
-     color: rgb(163, 21, 21) !important;
-}
-pre .vhdl .attribute {
-     color: #00B0E8 !important; 
-}
-pre .xml .attribute { 
-    color: rgb(255, 0, 0)!important; 
-}
