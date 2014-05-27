@@ -4,8 +4,11 @@ pre.prettyprint {
 }
 pre.prettyprint > code {
 	width: initial;
-	overflow-wrap: normal;
+	word-wrap: normal;
 	white-space: pre;
+}
+q {
+    background-color: rgba(102,128,153,0.2)
 }
 .post-title {
     font-size: 3rem !important;
@@ -16,4 +19,27 @@ pre.prettyprint > code {
 }
 .body-fauxcolumns {
 	background: #66bbdd none repeat scroll top left;
+}
+.preTable + table {
+   border: 1px solid grey;
+}
+.preTable + table tr:nth-child(even) {
+   background: white;
+}
+.tinyHeader {
+    line-height: 1;
+    margin:0;
+}
+.vbColor {
+    color: #20124d;
+}
+.csColor {
+    color:#274e13;
+}
+.black-color {
+    color: black;
+}
+.highlight {
+    font-weight:900;
+    background: rgb(255, 255, 52);
 }
