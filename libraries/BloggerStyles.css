@@ -45,7 +45,10 @@ q {
 }
 #preview-contents img,
 .post-outer img {
-    -webkit-box-shadow: 2px 2px 9px 0px rgba(50, 50, 50, 0.5);
-       -moz-box-shadow: 2px 2px 9px 0px rgba(50, 50, 50, 0.5);
-            box-shadow: 2px 2px 9px 0px rgba(50, 50, 50, 0.5);
+    padding: 4px;
+    background: #ffffff;
+    border: 1px solid #eeeeee;
+    -webkit-box-shadow: 1px 1px 5px rgba(50, 50, 50, .25);
+       -moz-box-shadow: 1px 1px 5px rgba(50, 50, 50, .25);
+            box-shadow: 1px 1px 5px rgba(50, 50, 50, .25);
 }
