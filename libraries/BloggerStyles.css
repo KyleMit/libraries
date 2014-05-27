@@ -43,3 +43,9 @@ q {
     font-weight:900;
     background: rgb(255, 255, 52);
 }
+#preview-contents img,
+.post-outer img {
+    -webkit-box-shadow: 2px 2px 9px 0px rgba(50, 50, 50, 0.5);
+       -moz-box-shadow: 2px 2px 9px 0px rgba(50, 50, 50, 0.5);
+            box-shadow: 2px 2px 9px 0px rgba(50, 50, 50, 0.5);
+}
