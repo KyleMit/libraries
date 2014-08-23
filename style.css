@@ -25,6 +25,15 @@ body {
 
 
 /* Select Bootstrap Styles */
+a {
+  color: #428BCA;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color: #2A6496;
+  text-decoration: underline;
+}
+
 /* Alerts */
 .alert {
   padding: 15px;
