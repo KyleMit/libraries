@@ -5,6 +5,7 @@ pre.prettyprint {
 pre.prettyprint > code {
 	width: initial;
 	word-wrap: normal;
+	word-break: normal;
 	white-space: pre;
 }
 q {
