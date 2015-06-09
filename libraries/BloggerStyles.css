@@ -53,3 +53,6 @@ q {
        -moz-box-shadow: 1px 1px 5px rgba(50, 50, 50, .25);
             box-shadow: 1px 1px 5px rgba(50, 50, 50, .25);
 }
+.navbar.section {
+    border-bottom: none;
+}
