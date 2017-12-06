@@ -178,3 +178,21 @@ pre .xmlDocTag {
 .language-css .hljs-value .hljs-hexcolor {
   color: rgb(163, 21, 21) !important; /*darkred*/
 }
+
+
+
+.css .hljs-tag,
+.css .hljs-id,
+.css .hljs-class {
+    color: #a31515 !important;
+    font-weight:normal;
+}
+
+.css .hljs-attribute {
+    color: #f00 !important;
+}
+
+.css .hljs-value,
+.css .hljs-number.hljs-number {
+    color: #00f !important;
+}
