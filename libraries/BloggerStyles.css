@@ -44,6 +44,9 @@ q {
     font-weight:900;
     background: rgb(255, 255, 52);
 }
+pre.prettyprint code .dimmed{
+    opacity: .5;
+}
 #preview-contents img,
 .post-outer img {
     padding: 4px;
