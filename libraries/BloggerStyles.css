@@ -56,3 +56,9 @@ q {
 .navbar.section {
     border-bottom: none;
 }
+.razor-keyword {
+    background: rgb(255, 255, 113);
+}
+.razor-block {
+    background: #cccccc;
+}
