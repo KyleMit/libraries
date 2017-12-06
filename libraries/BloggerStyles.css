@@ -47,6 +47,14 @@ q {
 pre.prettyprint code .dimmed{
     opacity: .5;
 }
+/* undo unecessary bolding from default.css */
+.hljs-keyword,
+.hljs-id,
+.hljs-title,
+.css .hljs-tag {
+    font-weight: normal;
+}
+
 #preview-contents img,
 .post-outer img {
     padding: 4px;
