@@ -1,24 +1,23 @@
 # Static Libraries and Pages
 
-[**GitHub Repository**](https://github.com/KyleMit/libraries)  
-[**Project Website**](http://kylemitofsky.com/libraries/)
+[**GitHub Repository**](https://github.com/KyleMit/libraries/)  
 
-### Popular
+### 3rd Party <small>(if not on CDNJS)</small>
 
-* [BrowserDetect.js](http://kylemitofsky.com/libraries/libraries/BrowserDetect.js)
-* [HighlightColors.css](http://kylemitofsky.com/libraries/libraries/HighlightColors.css)
-* [MapKeyPress.js](http://kylemitofsky.com/libraries/libraries/MapKeyPress.js)
-* [Markdown.Editor.js](http://kylemitofsky.com/libraries/libraries/Markdown.Editor.js)
-* [SyntaxColors.css](http://kylemitofsky.com/libraries/libraries/SyntaxColors.css)
-* [bootstrap-datepicker.js](http://kylemitofsky.com/libraries/libraries/bootstrap-datepicker.js)
-* [contextMenu.js](http://kylemitofsky.com/libraries/libraries/contextMenu.js)
-* [datepicker.css](http://kylemitofsky.com/libraries/libraries/datepicker.css)
-* [help-tip.css](http://kylemitofsky.com/libraries/libraries/help-tip.css)
-* [indexOfPolyFill.js](http://kylemitofsky.com/libraries/libraries/indexOfPolyFill.js)
-* [jquery.touchwipe.js](http://kylemitofsky.com/libraries/libraries/jquery.touchwipe.js)
-* [prefixer.less](http://kylemitofsky.com/libraries/libraries/prefixer.less)
+* [BrowserDetect.js](https://kylemit.github.io/libraries/libraries/BrowserDetect.js)
+* [HighlightColors.css](https://kylemit.github.io/libraries/libraries/HighlightColors.css)
+* [MapKeyPress.js](https://kylemit.github.io/libraries/libraries/MapKeyPress.js)
+* [Markdown.Editor.js](https://kylemit.github.io/libraries/libraries/Markdown.Editor.js)
+* [SyntaxColors.css](https://kylemit.github.io/libraries/libraries/SyntaxColors.css)
+* [bootstrap-datepicker.js](https://kylemit.github.io/libraries/libraries/bootstrap-datepicker.js)
+* [contextMenu.js](https://kylemit.github.io/libraries/libraries/contextMenu.js)
+* [datepicker.css](https://kylemit.github.io/libraries/libraries/datepicker.css)
+* [help-tip.css](https://kylemit.github.io/libraries/libraries/help-tip.css)
+* [indexOfPolyFill.js](https://kylemit.github.io/libraries/libraries/indexOfPolyFill.js)
+* [jquery.touchwipe.js](https://kylemit.github.io/libraries/libraries/jquery.touchwipe.js)
+* [prefixer.less](https://kylemit.github.io/libraries/libraries/prefixer.less)
 
 ### My Libraries
 
-* [BloggerStyles.css](http://kylemitofsky.com/libraries/libraries/BloggerStyles.css)
-* [test.html](http://kylemitofsky.com/libraries/libraries/test.html)
+* [BloggerStyles.css](https://kylemit.github.io/libraries/libraries/BloggerStyles.css)
+* [test.html](https://kylemit.github.io/libraries/libraries/test.html)
